@@ -1,7 +1,7 @@
 NAME := my-echo
 
-REPOSITORY := taniho/my-echo 
-TAG := 0.1 
+REPOSITORY := taniho/my-echo
+TAG := 0.1
 GOOS := linux
 GOARCH := amd64
 
