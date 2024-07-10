@@ -2,7 +2,7 @@ NAME := my-echo
 
 REPOSITORY := taniho/my-echo
 TAG := 0.1
-GOOS := linux
+GOOS := windows
 GOARCH := amd64
 
 .PHONY: build test image-build image-push clean
