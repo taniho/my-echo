@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY :=taniho/my-echo
-TAG := 0.1
+TAG := 0.2
 GOOS := windows 
 GOARCH := arm64
 
