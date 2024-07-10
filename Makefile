@@ -1,8 +1,8 @@
 NAME := my-echo
-REPOSITORY := ysakashita/$(NAME)
-TAG := 20231108
-GOOS := linux
-GOARCH := amd64
+REPOSITORY :=taniho/my-echo
+TAG := 0.1
+GOOS := windows 
+GOARCH := arm64
 
 .PHONY: build test image-build image-push clean
 build:
